@@ -1,6 +1,6 @@
 # Analise de Vendas Case Amaro
  
-<img align="right" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fhashtagcuritiba.com%2Festilo%2Famaro-inaugura-novo-guide-shop-em-curitiba%2F&psig=AOvVaw0cjzLTNYBpzLrvPiIssYud&ust=1633793911572000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOi9jeCSu_MCFQAAAAAdAAAAABAL />
+<img align="right" src=https://hashtagcuritiba.com/wp-content/uploads/2018/09/Guide-Shop-AMARO-ParkShoppingBarigui-1.jpg />
 
 ## Status Project
 
