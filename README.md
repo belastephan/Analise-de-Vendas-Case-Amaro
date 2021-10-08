@@ -2,6 +2,8 @@
  
 <img align="right" src=https://hashtagcuritiba.com/wp-content/uploads/2018/09/Guide-Shop-AMARO-ParkShoppingBarigui-1.jpg / height="20" width = "20" >
 
+<img align="right" src="https://hashtagcuritiba.com/wp-content/uploads/2018/09/Guide-Shop-AMARO-ParkShoppingBarigui-1.jpg / height="20" width = "20" >" 
+
 ## Status Project
 
 Completed
