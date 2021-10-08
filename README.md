@@ -1,6 +1,6 @@
 # Analise de Vendas Case Amaro
  
-<img align="right" src=https://hashtagcuritiba.com/wp-content/uploads/2018/09/Guide-Shop-AMARO-ParkShoppingBarigui-1.jpg height="1000" width = "1000" />
+<img align="right" src=https://hashtagcuritiba.com/wp-content/uploads/2018/09/Guide-Shop-AMARO-ParkShoppingBarigui-1.jpg height="500" width = "500" />
 
 ## Status Project
 
