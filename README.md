@@ -16,11 +16,11 @@ Iniciei este projeto realizando a leitura dos arquivos em csv no python e conver
 
 Dentro do Tableau foi necessário realizar os ajustes de parâmetro das variáveis bem como realizar as definições de relação entre as tabelas.
 
-Com os dados prontos para serem trabalhados, fiz uma visão geral dos principais indicadores (quantidade de pedidos, receita bruta, GMV) e busquei identificar padrões entre as variáveis (dia da semana, cupom de desconto, categorias, estado, faixa etária, tipos de dispositivos).
+Com os dados prontos para serem trabalhados, fiz uma visão geral dos principais indicadores (quantidade de pedidos, receita bruta, GMV etc) e busquei identificar padrões entre as principais variáveis (dia da semana, cupom de desconto, categorias, estado, faixa etária, tipos de dispositivos).
 
 ## Conclusion
 
-Foram identificados algusn padrões e as seguintes sugestões para o aumento da receita bruta através da redução das compras feitas em boletos:
+Foram identificados alguns padrões e as seguintes sugestões para o aumento da receita bruta através da redução das compras feitas em boletos:
 
 - Atuação no estado de maior representatividade, SP
 - Criação de campanhas de incentivo (desconto, brindes, frete gratis) em compras que forem feitas no cartão aos finais de semana.
@@ -38,4 +38,4 @@ Raiana Rocha (https://www.linkedin.com/in/raiana-rocha/)
 
 ## Songs listened while programming 🎼 
 
-
+https://www.youtube.com/watch?v=vrWFu5k1Jpg
