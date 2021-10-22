@@ -1,4 +1,4 @@
-# Analise de Vendas Case Amaro
+# Análise de Vendas - Case Amaro
  
 <img align="right" src=https://hashtagcuritiba.com/wp-content/uploads/2018/09/Guide-Shop-AMARO-ParkShoppingBarigui-1.jpg height="300" width = "500" />
 
