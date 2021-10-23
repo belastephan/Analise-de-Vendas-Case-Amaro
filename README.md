@@ -12,7 +12,7 @@ The objective of this project is to thinking as a Data Analyst for a data-driven
 
 ## Steps
 
-Iniciei este projeto realizando a leitura dos arquivos em .db no python e conversão de formato das mesmas para leitura no Tableau. 
+The project was set up by using PYTHON. The files were read in a ".db" format and then converted to a ".cvs" format to be developed in TABLEAU. 
 
 Dentro do Tableau foi necessário realizar os ajustes tipos das variáveis bem como realizar as definições de relação entre as tabelas.
 
