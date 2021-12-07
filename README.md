@@ -23,7 +23,7 @@ After having collected all data, it was done an overview with the main kpis (ord
 Some patterns were identified for the increase of the revenue through the reduction of the bank slip's purchase: 
 
 - Being mainly performed in São Paulo.
-- Developing campaings to encourage purchase on credit cards on the weekends (disconts, gifts, free delivery service etc).
+- Developing campaings to encourage purchase on credit cards on the weekends (discounts, gifts, free delivery service etc).
 - Sending a bank slip code through whatsapp to increase this type of payment. 
 - Sending whatsapp/email messages to remember the bank slip's expiration date.
 - Being able to modify the shopping cart even if the bank slip has been issued in order to reduce the cancelations and the database duplicity.
