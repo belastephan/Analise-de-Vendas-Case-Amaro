@@ -8,7 +8,7 @@ Completed
 
 ## Project Description
 
-The objective of this project is to thinking as a Data Analyst for a data-driven company, where one of the goals of the company is to maximize revenue, how to increase that (revenue) through decreasing bank slip cancelation rate.
+The objective of this project is to think as a Data Analyst for a data-driven company, where one of the goals of the company is to maximize revenue, how to increase that (revenue) through decreasing bank slip cancelation rate.
 
 ## Steps
 
